@@ -4,4 +4,4 @@ Welcome to my cybersecurity journey blog! Join me as I delve into the world of C
 
 ## Author
 
-Developed by Dilanka Kaushal Hewage (**h3xcr4ck3r**).
+Developed by Dilanka Kaushal Hewage (**n3rdh4x0r**).
