@@ -2,7 +2,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://nyxbyt3.github.io"
+url: "https://n3rdh4x0r.github.io"
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
 # and NOT your user repository (https://yourusername.github.io)
@@ -16,10 +16,10 @@ url: "https://nyxbyt3.github.io"
 # HTML Head #
 #############
 lang: "en"
-author: "nyxbyt3"
-title: "{ nyxbyt3 }"
+author: "n3rdh4x0r"
+title: "{ n3rdh4x0r }"
 description: "Blog and website of nyxbyt3, blogging mainly for tech. Opinions expressed are mine."
-keywords: "nyxbyt3, personal, redteam, CTF"
+keywords: "n3rdh4x0r, personal, redteam, CTF"
 favicon: "/img/favicon.ico"
 ################
 # Header layout #
@@ -97,24 +97,27 @@ events:
   - image: "/img/timeline/spidertocat.png"  # Image for Present
     date: "Present"
     description: |
-      - Currently serving as a Senior Red Team Operator for the Dubai Government, assessing and fortifying cybersecurity defenses.
-      - Actively engaged in sharing knowledge and expertise with the cybersecurity community through blog posts, workshops, and speaking engagements.
+      - Currently serving as a Senior Red Team Operator for the Dubai Government, focusing on assessing and enhancing cybersecurity defenses.
+      - Actively contributing to the cybersecurity community by sharing knowledge through blog posts, workshops, and speaking engagements.
+      - Currently pursuing a PhD in Cybersecurity, deepening expertise in offensive security research.
   - image: "/img/timeline/baracktocat.jpg"  # Image for 2016 to Present
-    date: "2016 to 2019"
+    date: "2016 to 2022"
     description: |
-      - Started professional career as a Red Team Operator at the Sri Lankan Defence Ministry.
-      - Continued to enrich experience in offensive security operations at AIX Investment Group in Burj Khalifa, Dubai.
+      - Launched professional career as a Red Team Operator at the Sri Lankan Defence Ministry, gaining hands-on experience in cybersecurity operations.
+      - Expanded expertise in offensive security operations at AIX Investment Group in Burj Khalifa, Dubai, working on high-profile security challenges.
+      - Completed MSc in Cybersecurity, strengthening academic and practical knowledge in the field.
   - image: "/img/timeline/default.png"  # Image for Childhood to University Years
     date: "Childhood to University Years (2008-2015)"
     description: |
-      - Explored coding and cybersecurity through CTF games and reverse engineering challenges.
-      - Pursued a BSc in Computer Science and participated in local and online CTF competitions.
+      - Developed an early passion for coding and cybersecurity through CTF games and reverse engineering challenges.
+      - Pursued a BSc in Computer Science while actively participating in local and online CTF competitions, honing problem-solving and technical skills.
+
 
 
 ###########
 # Contact #
 ###########
-email: "nyxbyt3@gmail.com"
+email: "n3rdh4x0r@gmail.com"
 # Set a url pointing to your publish PGP Public Key here, and it will appear in the Contact section
 pgp: False
 ################
@@ -126,8 +129,8 @@ pgp: False
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb:
-  "n3rdyn3xus is a cybersecurity enthusiast with a passion for red teaming and malware analysis. 
-  Based in Dubai, n3rdyn3xus has extensive experience in offensive security operations. 
+  "n3rdh4x0r is a cybersecurity enthusiast with a passion for red teaming and malware analysis. 
+  Based in Dubai, n3rdh4x0r has extensive experience in offensive security operations. 
   In their free time, they enjoy diving into the latest cybersecurity challenges."
 author_blurb_image: "/img/author.png"
 
@@ -136,13 +139,13 @@ author_blurb_image: "/img/author.png"
 ##################
 social:
   - icon: "github"
-    url: "https://github.com/nyxbyt3"
+    url: "https://github.com/n3rdh4x0r"
   - icon: "linkedin-in"
-    url: "https://www.linkedin.com/nyxbyt3"
+    url: "https://www.linkedin.com/n3rdh4x0r"
   - icon: "x-twitter"
-    url: "https://twitter.com/nyxbyt3"
+    url: "https://twitter.com/n3rdh4x0r"
   - icon: "rss"
-    url: "https://github.com/nyxbyt3/nyxbyt3.github.io/feed.xml"
+    url: "https://github.com/n3rdh4x0r/n3rdh4x0r.github.io/feed.xml"
 ############
 # 404 page #
 ############
